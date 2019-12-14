@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+  
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+.hidden {
+    display: none;
+  }
+  
+.feedback {
+    font-size: 10px;
+    color: red;
+    font-style: italic;
+  }

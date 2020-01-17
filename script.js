@@ -3,7 +3,7 @@
 let Resort_Id = '999004';
 const APP_ID = 'a791f2e5';
 const APP_KEY = '84ca8d0ee1f7be1519277d91e17dd080';
-const REPORT_ROOT = 'http://api.weatherunlocked.com/api/';
+const REPORT_ROOT = 'https://api.weatherunlocked.com/api/';
 
 const APP_KEY_GIPHY = 'h4UHJpML5W5XsTnhiWq5sF82nUFbdMSC';
 const GIPHY_ROOT = 'http://api.giphy.com/v1/gifs/search?';

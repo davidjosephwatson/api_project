@@ -27,7 +27,7 @@ function makeApiCall(url, onComplete) {
     .then(resultJson => {
         onComplete(resultJson)
     })
-    .catch(error => alert('Something went wrong. Try again later.'));
+    .catch(error => console.log(error));
 }
 
 function displayError() {
